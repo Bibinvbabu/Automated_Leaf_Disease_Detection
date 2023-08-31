@@ -1,0 +1,10 @@
+0 Bacterial Spot
+1 Healthy Leaf
+2 Early Blight
+3 Leaf Mold
+4 Spider on Leaf
+5 Spider Mite
+6  Leaf Miner
+7 Mosaic Virus
+8 Septoria Leaf Spot
+9 Yellow Leaf Curl Virus
